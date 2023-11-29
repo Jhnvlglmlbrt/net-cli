@@ -27,7 +27,7 @@ go get
 ## 🪛 How to use?
 
 ```
-cd ./cmd/cli && go run cli.go command --host hostname 
+go run cli.go command --host hostname 
 ```
 Команды:
 
